@@ -1,0 +1,11 @@
+C:\git\freeImageTest\cs\Samples\Sample 11 - Using the FreeImageBitmap class\bin\Debug\Sample11.exe
+C:\git\freeImageTest\cs\Samples\Sample 11 - Using the FreeImageBitmap class\bin\Debug\Sample11.pdb
+C:\git\freeImageTest\cs\Samples\Sample 11 - Using the FreeImageBitmap class\bin\Debug\FreeImageNET.dll
+C:\git\freeImageTest\cs\Samples\Sample 11 - Using the FreeImageBitmap class\bin\Debug\FreeImageNET.pdb
+C:\git\freeImageTest\cs\Samples\Sample 11 - Using the FreeImageBitmap class\obj\Debug\Sample11.MainForm.resources
+C:\git\freeImageTest\cs\Samples\Sample 11 - Using the FreeImageBitmap class\obj\Debug\Sample11.MetaDataFrame.resources
+C:\git\freeImageTest\cs\Samples\Sample 11 - Using the FreeImageBitmap class\obj\Debug\Sample 11 - Using the FreeImageBitmap class.2005.csproj.GenerateResource.Cache
+C:\git\freeImageTest\cs\Samples\Sample 11 - Using the FreeImageBitmap class\obj\Debug\Sample 11 - Using the FreeImageBitmap class.2005.csproj.CoreCompileInputs.cache
+C:\git\freeImageTest\cs\Samples\Sample 11 - Using the FreeImageBitmap class\obj\Debug\Sample11.exe
+C:\git\freeImageTest\cs\Samples\Sample 11 - Using the FreeImageBitmap class\obj\Debug\Sample11.pdb
+C:\git\freeImageTest\cs\Samples\Sample 11 - Using the FreeImageBitmap class\obj\Debug\Sample 11 - Using the FreeImageBitmap class.2005.csprojResolveAssemblyReference.cache

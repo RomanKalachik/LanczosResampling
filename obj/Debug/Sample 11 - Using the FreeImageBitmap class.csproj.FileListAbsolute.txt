@@ -1,0 +1,10 @@
+C:\git\freeImageTest\resampling\obj\Debug\Sample 11 - Using the FreeImageBitmap class.csprojResolveAssemblyReference.cache
+C:\git\freeImageTest\resampling\obj\Debug\Sample11.MainForm.resources
+C:\git\freeImageTest\resampling\obj\Debug\Sample11.MetaDataFrame.resources
+C:\git\freeImageTest\resampling\obj\Debug\Sample 11 - Using the FreeImageBitmap class.csproj.GenerateResource.Cache
+C:\git\freeImageTest\resampling\obj\Debug\Sample 11 - Using the FreeImageBitmap class.csproj.CoreCompileInputs.cache
+C:\git\freeImageTest\resampling\obj\Debug\Sample11.exe
+C:\git\freeImageTest\resampling\obj\Debug\Sample11.pdb
+C:\git\freeImageTest\resampling\bin\Debug\Sample11.exe
+C:\git\freeImageTest\resampling\bin\Debug\Sample11.pdb
+C:\git\freeImageTest\resampling\bin\Debug\FreeImageNET.pdb

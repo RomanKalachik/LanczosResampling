@@ -1,0 +1,10 @@
+C:\git\freeImageTest\resampling\bin\Debug\Lanczos.exe
+C:\git\freeImageTest\resampling\bin\Debug\Lanczos.pdb
+C:\git\freeImageTest\resampling\bin\Debug\FreeImageNET.pdb
+C:\git\freeImageTest\resampling\obj\Debug\Lanczos.csprojResolveAssemblyReference.cache
+C:\git\freeImageTest\resampling\obj\Debug\Sample11.MainForm.resources
+C:\git\freeImageTest\resampling\obj\Debug\Sample11.MetaDataFrame.resources
+C:\git\freeImageTest\resampling\obj\Debug\Lanczos.csproj.GenerateResource.Cache
+C:\git\freeImageTest\resampling\obj\Debug\Lanczos.csproj.CoreCompileInputs.cache
+C:\git\freeImageTest\resampling\obj\Debug\Lanczos.exe
+C:\git\freeImageTest\resampling\obj\Debug\Lanczos.pdb
